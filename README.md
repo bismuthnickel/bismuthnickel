@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**bismuthnickel/bismuthnickel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+im bismuth, yeah. here's my stuff.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on absolutely nothing.
+- 🌱 I’m currently learning nothing.
+- 👯 I’m looking to collaborate on nothing.
+- 🤔 I’m looking for help with nothing.
+- 💬 Ask me about nothing.
+- 📫 How to reach me: no.
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: nothing.
+- 💻 My OSs: Windows 11/Linux Mint 22 (dualbooting), Raspbian (raspberry pi)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![My Skills](https://skillicons.dev/icons?i=vscode,windows,py,lua,java,c,cpp,cs,html,javascript,css,bash,blender,cmake,discord,bots,docker,dotnet,eclipse,electron,figma,flask,git,github,godot,haxe,haxeflixel,jquery,linux,mint,nodejs,processing,raspberrypi,robloxstudio,sqlite,stackoverflow,sublime,ubuntu,unity&theme=light)](https://skillicons.dev)
