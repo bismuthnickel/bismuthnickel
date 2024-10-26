@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=bismuthnickel&color=blueviolet)
+
 ### Hi there 👋
 
 im bismuth, yeah. here's my stuff.
