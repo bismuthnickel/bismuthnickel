@@ -4,10 +4,10 @@
 
 im bismuth, yeah. here's my stuff.
 
-- 🔭 I’m currently working on absolutely everything.
-- 🌱 I’m currently learning everything.
-- 👯 I’m looking to collaborate on everything.
-- 🤔 I’m looking for help with everything.
+- 🔭 I’m currently working on [AceDOS](https://github.com/bismuthnickel/AceDOS)
+- 🌱 I’m currently learning: nothing at the moment
+- 👯 I’m looking to collaborate on AceDOS
+- 🤔 I’m looking for help with implementing a file system
 - 💬 Ask me about anything but React.
 - 📫 How to reach me: uhh emil cookdinneronanelephant@duck.com.
 - 😄 Pronouns: he/him
