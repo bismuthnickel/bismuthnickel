@@ -1,18 +1,18 @@
 ![](https://komarev.com/ghpvc/?username=bismuthnickel&color=blueviolet)
 
-### Hi there 👋
+### greetings
 
-im bismuth, yeah. here's my stuff.
+im noto.
 
-- 🔭 I’m currently working on [AceDOS](https://github.com/bismuthnickel/AceDOS)
+- 🔭 I’m currently working on ????
 - 🌱 I’m currently learning: nothing at the moment
-- 👯 I’m looking to collaborate on AceDOS
-- 🤔 I’m looking for help with implementing a file system
-- 💬 Ask me about anything but React.
+- 👯 I’m looking to collaborate on ????
+- 🤔 I’m looking for help with ????
+- 💬 Ask me about x86-16 assembly
 - 📫 How to reach me: uhh emil cookdinneronanelephant@duck.com.
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: i exist.
-- 💻 My OSs: Windows 11 (with WSL)
+- 💻 My OSs: Windows 10 and 11 (with WSL)
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,vscode,windows,lua,html,javascript,css,bash,git,github,stackoverflow,wsl&theme=light)](https://skillicons.dev)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bismuthnickel&bg_color=ffffff&color=121212&line=4c619e&point=363636&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
